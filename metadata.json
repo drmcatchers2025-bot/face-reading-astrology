@@ -1,0 +1,6 @@
+{
+  "name": "The Somatic Mirror & Divinatory Companion",
+  "description": "Esoteric Mian Xiang physiognomy computer-vision analysis, interactive divination casts (Tarot, Runes, I Ching), and celestial synastry within the unified Osiris Ecosystem.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
